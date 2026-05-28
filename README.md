@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me
+
+Hi, I'm **Prasanna Pratap Singh** — a passionate **Full Stack Developer** and **DevOps Engineer** who loves building scalable systems, backend architectures, and modern web applications.
+
+I enjoy working with cloud-native technologies, distributed systems, microservices, and containers 🫠
+
+---
+
+## 🚀 Currently Working On
+
+- Building a scalable **peer-to-peer skill exchange platform**
+- Building a **microservices platform** to enable users to develop full stack applications through AI
+- Exploring better & scalable **development practices**
 
 
 ## 🌐 Socials:
