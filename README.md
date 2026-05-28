@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi, I'm **Prasanna Pratap Singh** — a passionate **Full Stack Developer** and **DevOps Engineer** who loves building scalable systems, backend architectures, and modern web applications.
+Hi, I'm **Prasanna Pratap Singh**: A passionate **Full Stack Developer** and **DevOps Engineer** who loves building scalable systems, backend architectures, and modern web applications.
 
 I enjoy working with cloud-native technologies, distributed systems, microservices, and containers 🫠
 
