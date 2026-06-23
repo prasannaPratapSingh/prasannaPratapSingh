@@ -10,15 +10,10 @@
 
 <br/>
 
-<!-- Animated wave divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=0" width="100%" />
-</div>
-
 ## 💫 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=60A5FA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+Native+Builder;Open+Source+Enthusiast" alt="Roles" />
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Full Stack Developer at Work" />
 </div>
 
 I'm a passionate **Full Stack Developer** and **DevOps Engineer** who thrives on building scalable, production-ready systems. From crafting elegant backend architectures to deploying containerized microservices, I love the entire spectrum of modern software engineering.
@@ -26,10 +21,13 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** who thrives on
 🌐 Check out my portfolio: **[prasannapratap.site](https://www.prasannapratap.site)**
 
 ### 🎯 What Drives Me
-- Designing **distributed systems** that scale gracefully
-- Building **cloud-native** applications with modern tooling
-- Exploring the intersection of **AI and development workflows**
-- Contributing to **open-source** and learning in public
+- 🏗️ Designing **distributed systems** that scale gracefully
+- 🐳 Building **containerized** applications with Docker & Kubernetes
+- ☁️ Deploying **cloud-native** architectures on AWS
+- 🤖 Exploring the intersection of **AI and development workflows**
+- 🌍 Contributing to **open-source** and learning in public
+
+<br clear="right"/>
 
 <br/>
 
@@ -38,22 +36,28 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** who thrives on
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Peer-to-Peer Skill Exchange</h3>
+      <h3 align="center">
+        Scalable LMS with HLS Streaming
+      </h3>
       <div align="center">
-        <p>A scalable platform enabling users to trade skills and knowledge in a decentralized way</p>
+        <p>A highly scalable Learning Management System featuring HTTP Live Streaming (HLS) and real-time video transcoding for seamless content delivery</p>
         <p>
           <img src="https://img.shields.io/badge/status-in%20development-blue?style=flat-square" />
-          <img src="https://img.shields.io/badge/stack-Microservices-purple?style=flat-square" />
+          <img src="https://img.shields.io/badge/stack-Microservices%20%7C%20HLS-purple?style=flat-square" />
+          <img src="https://img.shields.io/badge/deployed-Docker%20%7C%20K8s-2496ED?style=flat-square&logo=docker" />
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">AI-Powered Microservices Platform</h3>
+      <h3 align="center">
+        AI-Powered Microservices Platform
+      </h3>
       <div align="center">
         <p>Empowering developers to build full-stack applications through intelligent automation</p>
         <p>
           <img src="https://img.shields.io/badge/status-alpha%20testing-green?style=flat-square" />
           <img src="https://img.shields.io/badge/stack-AI%20%2B%20Cloud-orange?style=flat-square" />
+          <img src="https://img.shields.io/badge/deployed-AWS%20%7C%20ECS-FF9900?style=flat-square&logo=amazon-aws" />
         </p>
       </div>
     </td>
@@ -62,18 +66,12 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** who thrives on
 
 <br/>
 
-<!-- Animated skills marquee -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=818CF8&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack+%F0%9F%9B%A0%EF%B8%8F" alt="Tech Stack" />
-</div>
-
 ## 🛠️ Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -105,45 +103,18 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** who thrives on
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 <br/>
 
-<!-- Animated stats header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+GitHub+Analytics+%F0%9F%93%8A" alt="GitHub Analytics" />
-</div>
+## 📊 Contribution Stats
 
-## 📊 GitHub Analytics
-
+<!-- Activity Graph -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-shion.vercel.app/api?username=prasannaPratapSingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-shion.vercel.app/api/top-langs/?username=prasannaPratapSingh&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prasannaPratapSingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannaPratapSingh&theme=react-dark&hide_border=true&area=true&custom_title=📈%20Contribution%20Activity%20Graph&radius=16" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
-
-<!-- Animated activity graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannaPratapSingh&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<!-- Random Dev Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<br/>
-
-<!-- Animated footer divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=0" width="100%" />
-</div>
 
 ## 🤝 Let's Connect
 
@@ -167,18 +138,8 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** who thrives on
 ---
 
 <div align="center">
-  <i>"Building the future, one commit at a time."</i> 🚀
+  <i>"Stream. Transcode. Scale."</i> 🎬🐳
   
   <br/>
   <sub>💼 <a href="https://www.prasannapratap.site">prasannapratap.site</a></sub>
 </div>
-
-<!-- 
-  🌟 Animations used (all work WITHOUT GitHub Actions):
-  1. Readme Typing SVG - Animated text effects
-  2. Capsule Render - Wave dividers (header/footer)
-  3. GitHub Activity Graph - Animated contribution timeline
-  4. GitHub Readme Quotes - Dynamic dev quotes
-  5. Readme Stats - Animated stats cards
-  6. Streak Stats - Animated streak counter
--->
