@@ -10,17 +10,16 @@
 
 <br/>
 
+<!-- Animated wave divider -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasannaPratapSingh/prasannaPratapSingh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasannaPratapSingh/prasannaPratapSingh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasannaPratapSingh/prasannaPratapSingh/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=0" width="100%" />
 </div>
 
-<br/>
-
 ## 💫 About Me
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=60A5FA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+Native+Builder;Open+Source+Enthusiast" alt="Roles" />
+</div>
 
 I'm a passionate **Full Stack Developer** and **DevOps Engineer** who thrives on building scalable, production-ready systems. From crafting elegant backend architectures to deploying containerized microservices, I love the entire spectrum of modern software engineering.
 
@@ -63,6 +62,11 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** who thrives on
 
 <br/>
 
+<!-- Animated skills marquee -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=818CF8&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack+%F0%9F%9B%A0%EF%B8%8F" alt="Tech Stack" />
+</div>
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -104,6 +108,11 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** who thrives on
 
 <br/>
 
+<!-- Animated stats header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+GitHub+Analytics+%F0%9F%93%8A" alt="GitHub Analytics" />
+</div>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -117,19 +126,24 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** who thrives on
 
 <br/>
 
-## 🐍 Contribution Snake
-
+<!-- Animated activity graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasannaPratapSingh/prasannaPratapSingh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasannaPratapSingh/prasannaPratapSingh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasannaPratapSingh/prasannaPratapSingh/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br/>
-  <em>Watch the snake eat my contributions! 🐍</em>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannaPratapSingh&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
+
+<!-- Random Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+<!-- Animated footer divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=0" width="100%" />
+</div>
 
 ## 🤝 Let's Connect
 
@@ -158,3 +172,13 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** who thrives on
   <br/>
   <sub>💼 <a href="https://www.prasannapratap.site">prasannapratap.site</a></sub>
 </div>
+
+<!-- 
+  🌟 Animations used (all work WITHOUT GitHub Actions):
+  1. Readme Typing SVG - Animated text effects
+  2. Capsule Render - Wave dividers (header/footer)
+  3. GitHub Activity Graph - Animated contribution timeline
+  4. GitHub Readme Quotes - Dynamic dev quotes
+  5. Readme Stats - Animated stats cards
+  6. Streak Stats - Animated streak counter
+-->
